@@ -5,7 +5,9 @@
 
 
 Hi, I'm Shubham Mate, a Data Analyst 🚀 from India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
-  <img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-27034905" />
+
+<img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-18655255" width="408" height="318" />
+  
   
 **Talking about Personal Stuffs:**
 
