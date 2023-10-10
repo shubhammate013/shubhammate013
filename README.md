@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">[Shubham Mate!]</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mate-b07633212/)
-[![Twitter Badge](https://img.shields.io/badge/-twitter-0e76a8?style=flat-square&logo=twitter&logoColor=white)](https://https://www.twitter.com/in/its_shubham13/)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-0e76a8?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/its_shubham13?t=QLxLsHu9DSPk6oueRJBp9g&s=09)
 
 
 Hi, I'm Shubham Mate, a Data Analyst 🚀 from India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
